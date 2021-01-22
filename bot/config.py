@@ -1,10 +1,10 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "1510745072:AAGHw5xMeDIr22c6rLkS6wmtIYM7XNkx5F0"
+    APP_ID = "2012939"
+    API_HASH = "6fc85a4aaa227723dcb1297b2f22e9cd"
+    DATABASE_URL = "postgres://mocwyssdjxwstl:48ba203947f7a43e221e211e31dbf267aa6c8fa381e619ebf63967e2d00f8979@ec2-50-19-32-202.compute-1.amazonaws.com:5432/ddpgiofavrk6df"
+    SUDO_USERS = "1430262665 -1001395784435" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "t.me/gbotclone"
     DOWNLOAD_DIRECTORY = "./downloads/"
 
 
